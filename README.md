@@ -20,6 +20,8 @@ Ejes del curso: Repetición-Variación
 
 ## Artículos y lecturas
 
+- [Taeyoon Choi - Hello World!](http://avant.org/project/hello-world/)
+
 ## Salidas de aprendizaje
 
 - Analizar el uso del código creativo en proyectos profesionales donde la creatividad computacional es parte fundamental de su conceptualización.
