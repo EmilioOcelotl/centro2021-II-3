@@ -8,7 +8,7 @@ Ejes del curso: Repetición-Variación
 
 ## Sesiones
 
-- [ ] [Sesión 01](https://github.com/EmilioOcelotl/centro2021-II-3/blob/main/s01/README.md) - 27.01.21
+- [ ] [Sesión 01](https://github.com/EmilioOcelotl/centro2021-II-3/blob/main/s01/README.md) - Repaso I - 27.01.21
 
 ## Entregas y actividades
 
