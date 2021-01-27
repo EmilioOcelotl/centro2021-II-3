@@ -8,7 +8,7 @@ Ejes del curso: Repetición-Variación
 
 ## Sesiones
 
-- [ ] [Sesión 01](https://github.com/EmilioOcelotl/centro2021-II-3/blob/main/s01/README.md) - 27.01.11
+- [ ] [Sesión 01](https://github.com/EmilioOcelotl/centro2021-II-3/blob/main/s01/README.md) - 27.01.21
 
 ## Entregas y actividades
 
@@ -22,19 +22,17 @@ Ejes del curso: Repetición-Variación
 
 ## Salidas de aprendizaje
 
-Analizar el uso del código creativo en proyectos profesionales donde la creatividad computacional es parte fundamental
-de su conceptualización.
-Explicar conceptos elementales de programación orientada a objetos: clases, objetos, métodos, eventos.
-Utilizar el código creativo en contextos de lenguaje visual, animación simple y manipulación de imágenes en movimiento.
+- Analizar el uso del código creativo en proyectos profesionales donde la creatividad computacional es parte fundamental de su conceptualización.
+- Explicar conceptos elementales de programación orientada a objetos: clases, objetos, métodos, eventos.
+- Utilizar el código creativo en contextos de lenguaje visual, animación simple y manipulación de imágenes en movimiento.
 
 ## Evaluación
 
-Carpeta de trabajos finales | selección de al menos 5 trabajos realizados durante el semestre con sus respectivas
-variaciones 25%
-Lecturas | Pendientes 10%
-Primer parcial | participación 5% y ejercicio a entregar 20%
-Segundo parcial | participación 5% y ejercicio a entregar 20%
-Tercer parcial | participación 5% y ejercicio a entregar 10%
+- Carpeta de trabajos finales selección de al menos 5 trabajos realizados durante el semestre con sus respectivas variaciones 25%
+- Lecturas | Pendientes 10%
+- Primer parcial | participación 5% y ejercicio a entregar 20%
+- Segundo parcial | participación 5% y ejercicio a entregar 20%
+- Tercer parcial | participación 5% y ejercicio a entregar 10%
 
 ## Referencias 
 
