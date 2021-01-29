@@ -8,8 +8,11 @@ Ejes del curso: Repetición-Variación
 
 ## Sesiones
 
-- [ ] [Sesión 01](https://github.com/EmilioOcelotl/centro2021-II-3/blob/main/s01/README.md) - Repaso I - 27.01.21
-
+- [x] [Sesión 01](https://github.com/EmilioOcelotl/centro2021-II-3/blob/main/s01/README.md) - Repaso I - 27.01.21
+  - [Código visto en clase](https://gist.github.com/EmilioOcelotl/346f298993571003be109627f54004ac)
+- [ ] [Sesión 02](https://github.com/EmilioOcelotl/centro2021-II-3/blob/main/s02/README.md) - Repaso II - 29.01.21
+  - Para esta sesión usaremos un código nuevo
+  
 ## Entregas y actividades
 
 - [ ]  03.02.21 - Leer y discutir [Hello World!](http://avant.org/project/hello-world/)
