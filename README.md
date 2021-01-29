@@ -4,7 +4,10 @@
 
 **Objetivo:** Aplicar procesos algorítmicos para la conceptualización y realización de productos digitales de diseño y arte mediante programación orientada a objetos.
 
-Ejes del curso: Repetición-Variación
+Ejes del curso:
+
+- Repetición-Variación
+- Tiempo y Espacio
 
 ## Sesiones
 

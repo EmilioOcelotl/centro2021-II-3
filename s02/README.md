@@ -4,7 +4,13 @@ Continuaremos con el repaso de Processing
 
 Empezaremos a hablar de modo dinámico, contadores, loops, condicionales y transformaciones. 
 
-Partamos de una premisa de trabajo: Un arreglo de formas en dos dimensiones.
+Premisa de trabajo: Un arreglo de formas en dos dimensiones.
+
+El objetivo de este repaso consiste en tener herramientas suficientes para controlar matrices de objetos de dos dimensiones.
+
+Esto nos permitirá hablar de pixeles en una imágen digital y como es posible modificarla con loops for().
+
+Tomaremos algunas ideas de transformaciones tipo glitch para realizar esto. 
 
 ## `setup()` y `draw()`
 
