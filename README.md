@@ -16,12 +16,10 @@ Ejes del curso:
 - [x] [Sesión 02](https://github.com/EmilioOcelotl/centro2021-II-3/blob/main/s02/README.md) - Repaso II - 29.01.21
   - [Código visto en clase](https://gist.github.com/EmilioOcelotl/c839ebb87912a4687a820f2267079b2e)
 - [ ] [Sesión 03](https://github.com/EmilioOcelotl/centro2021-II-3/blob/main/s03/README.md) - Repaso III - 03.02.21
-  - Impresiones de la lectura
-  - if() y for() 
-
+  - [Código](https://gist.github.com/EmilioOcelotl/ba6acac5681e6a6f958bb78c551ddabf)
 ## Entregas y actividades
 
-- [ ]  03.02.21 - Leer y discutir [Hello World!](http://avant.org/project/hello-world/)
+- [ ]  05.02.21 - Leer y discutir [Hello World!](http://avant.org/project/hello-world/)
 
 ## Recursos
 
