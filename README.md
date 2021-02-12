@@ -7,7 +7,8 @@
 Ejes del curso:
 
 - Repetición-Variación
-- Tiempo y Espacio
+- Tiempo-Espacio
+- Abstracción-Ejecución
 
 ## Sesiones
 
@@ -17,14 +18,20 @@ Ejes del curso:
   - [Código visto en clase](https://gist.github.com/EmilioOcelotl/c839ebb87912a4687a820f2267079b2e)
 - [x] [Sesión 03](https://github.com/EmilioOcelotl/centro2021-II-3/blob/main/s03/README.md) - Repaso III - 03.02.21
   - [Código](https://gist.github.com/EmilioOcelotl/ba6acac5681e6a6f958bb78c551ddabf)
-- [ ] Sesión 04 - Repaso IV - 05.02.21
+- [x] Sesión 04 - Repaso IV - 05.02.21
   - Discusión
   - Jerarquía de paréntesis > sentido del contador
   - for()
+- [x] Sesión 05 - 10.02.21
+  - for() anidados
+  - [Código](https://gist.github.com/EmilioOcelotl/f1dc9ea476aec6efb7924ef26603e348)
+- [ ] Sesion 06 - 12.02.21
+  - [Anidamiento de for() y gradiente](https://gist.github.com/EmilioOcelotl/d4e734564814b5c843807b8947221dc6)
+  - Clases, imagen e introducción a pixeles
 
 ## Entregas y actividades
 
-- [ ]  05.02.21 - Leer y discutir [Hello World!](http://avant.org/project/hello-world/)
+- [x] 05.02.21 - Leer y discutir [Hello World!](http://avant.org/project/hello-world/)
 
 ## Recursos
 
