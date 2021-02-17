@@ -25,13 +25,18 @@ Ejes del curso:
 - [x] Sesión 05 - 10.02.21
   - for() anidados
   - [Código](https://gist.github.com/EmilioOcelotl/f1dc9ea476aec6efb7924ef26603e348)
-- [ ] Sesion 06 - 12.02.21
+- [x] Sesion 06 - 12.02.21
   - [Anidamiento de for() y gradiente](https://gist.github.com/EmilioOcelotl/d4e734564814b5c843807b8947221dc6)
   - Clases, imagen e introducción a pixeles
-
+- [ ] Sesión 07 - 17.02.21
+  - [Código](https://gist.github.com/EmilioOcelotl/8dee314325a6e61063d5f2eab5e82c53) clase pasada
+  - .get() y puntillismo
+  - Entrega parcial
+  
 ## Entregas y actividades
 
 - [x] 05.02.21 - Leer y discutir [Hello World!](http://avant.org/project/hello-world/)
+- [ ] 17.02.21 - Entrega parcial en: [Brightspace](https://centro.brightspace.com/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=8741&ou=13065)
 
 ## Recursos
 
