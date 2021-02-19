@@ -28,19 +28,26 @@ Ejes del curso:
 - [x] Sesion 06 - 12.02.21
   - [Anidamiento de for() y gradiente](https://gist.github.com/EmilioOcelotl/d4e734564814b5c843807b8947221dc6)
   - Clases, imagen e introducción a pixeles
-- [ ] Sesión 07 - 17.02.21
+- [x] Sesión 07 - 17.02.21
   - [Código](https://gist.github.com/EmilioOcelotl/8dee314325a6e61063d5f2eab5e82c53) clase pasada
   - .get() y puntillismo
   - Entrega parcial
-  
+- [ ] Sesión 08 - 19.02.21
+  - Pixels 
+
 ## Entregas y actividades
 
 - [x] 05.02.21 - Leer y discutir [Hello World!](http://avant.org/project/hello-world/)
-- [ ] 17.02.21 - Entrega parcial en: [Brightspace](https://centro.brightspace.com/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=8741&ou=13065)
+- [x] 17.02.21 - Entrega parcial en: [Brightspace](https://centro.brightspace.com/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=8741&ou=13065)
+
+## Recomendaciones
+
+- [TRANSNODAL](https://transnodal.toplap.org/) - 19-21.02.21 
 
 ## Recursos
 
 - [Processing](https://processing.org/download/) 
+- [Images and Pixels](https://processing.org/tutorials/pixels/) - Daniel Shiffman 
 
 ## Artículos y lecturas
 
