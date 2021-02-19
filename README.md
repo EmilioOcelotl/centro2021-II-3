@@ -32,6 +32,7 @@ Ejes del curso:
   - [Código](https://gist.github.com/EmilioOcelotl/8dee314325a6e61063d5f2eab5e82c53) clase pasada
   - .get() y puntillismo
   - Entrega parcial
+  - [Código Puntillismo](https://gist.github.com/EmilioOcelotl/504be66b8972415b2a44849169384b2a) 
 - [ ] Sesión 08 - 19.02.21
   - Pixels 
 
