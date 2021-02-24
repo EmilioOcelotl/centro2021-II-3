@@ -33,13 +33,19 @@ Ejes del curso:
   - .get() y puntillismo
   - Entrega parcial
   - [Código Puntillismo](https://gist.github.com/EmilioOcelotl/504be66b8972415b2a44849169384b2a) 
-- [ ] Sesión 08 - 19.02.21
-  - Pixels 
+- [x] Sesión 08 - 19.02.21
+  - Pixels
+  - imagenes sintéticas y concretas
+- [ ] Sesión 09 - 23.02.21
+  - Pixels II
+  - Captura de un cuadro con keyPressed
+
 
 ## Entregas y actividades
 
 - [x] 05.02.21 - Leer y discutir [Hello World!](http://avant.org/project/hello-world/)
 - [x] 17.02.21 - Entrega parcial en: [Brightspace](https://centro.brightspace.com/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=8741&ou=13065)
+- [ ] 03.02.21 - Segunda entrega parcial en: Brightspace
 
 ## Recomendaciones
 
