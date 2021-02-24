@@ -36,9 +36,10 @@ Ejes del curso:
 - [x] Sesión 08 - 19.02.21
   - Pixels
   - imagenes sintéticas y concretas
-- [ ] Sesión 09 - 23.02.21
+  - [Código de la clase pasada](https://gist.github.com/EmilioOcelotl/86ce9e3b77acd21dee44c7846827390a) 
+- [ ] Sesión 09 - 24.02.21
   - Pixels II
-  - Captura de un cuadro con keyPressed
+  - Si da tiempo revisaremos un [estudio de pixeles](https://gist.github.com/EmilioOcelotl/19e7f9a9f943ada68875fbfc6dec6cc8) 
 
 
 ## Entregas y actividades
