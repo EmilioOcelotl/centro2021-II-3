@@ -41,15 +41,20 @@ Ejes del curso:
   - Pixels II
 - [x] Sesión 10 - 26.02.21
   - [estudio de pixeles](https://gist.github.com/EmilioOcelotl/19e7f9a9f943ada68875fbfc6dec6cc8)	
-- [ ] Sesión 11 - 03.03.21
+- [x] Sesión 11 - 03.03.21
   - Entrega parcial > imágenes concretas, imágenes sintéticas
+- [x] Sesión 12 - 05.03.21
+  - Visita Ashby Solano
+- [ ] Sesion 13 - 10.03.21
+  - Cámara y video > [Código](https://gist.github.com/EmilioOcelotl/7934dead4a338433e780c65285347784) 
   - ¿Cómo hacer coincidir perspectivas? [Código](https://gist.github.com/EmilioOcelotl/ec288dc9f1e66aa7fffd718563a7630d)
+
 
 ## Entregas y actividades
 
 - [x] 05.02.21 - Leer y discutir [Hello World!](http://avant.org/project/hello-world/)
 - [x] 17.02.21 - Entrega parcial en: [Brightspace](https://centro.brightspace.com/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=8741&ou=13065)
-- [ ] 03.03.21 - Segunda entrega parcial en: [Brightspace](https://centro.brightspace.com/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=9170&ou=13065) 
+- [x] 03.03.21 - Segunda entrega parcial en: [Brightspace](https://centro.brightspace.com/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=9170&ou=13065) 
 
 ## Recomendaciones
 
