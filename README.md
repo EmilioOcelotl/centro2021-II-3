@@ -49,8 +49,8 @@ Ejes del curso:
   - Cámara y video > [Código](https://gist.github.com/EmilioOcelotl/7934dead4a338433e780c65285347784) 
   - ¿Cómo hacer coincidir perspectivas? [Código](https://gist.github.com/EmilioOcelotl/ec288dc9f1e66aa7fffd718563a7630d)
 - [ ] Sesión 14 - 12.03.21
-  - Desacelerar > Video y Cámara, comentarios y posibles soluciones (p5) 
-  - Repaso de cara al cierre
+  - Desacelerar > [Video](https://gist.github.com/EmilioOcelotl/5a7d754edd4967a0e25df75e2a91a839) y [Cámara](https://gist.github.com/EmilioOcelotl/0a1a334b6a0bae464a64c5f3bb0e4c1b), comentarios y posibles soluciones (p5) 
+  - Repaso de cara al cierre. Posibilidades y alcances de Processing
   - Mucho código ¿Cómo podríamos simplificar la programación creativa? 
   - Entrega final: Collage de imágenes (opcional: video, cámara)
 
