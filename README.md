@@ -45,10 +45,14 @@ Ejes del curso:
   - Entrega parcial > imágenes concretas, imágenes sintéticas
 - [x] Sesión 12 - 05.03.21
   - Visita Ashby Solano
-- [ ] Sesion 13 - 10.03.21
+- [x] Sesion 13 - 10.03.21
   - Cámara y video > [Código](https://gist.github.com/EmilioOcelotl/7934dead4a338433e780c65285347784) 
   - ¿Cómo hacer coincidir perspectivas? [Código](https://gist.github.com/EmilioOcelotl/ec288dc9f1e66aa7fffd718563a7630d)
-
+- [ ] Sesión 14 - 12.03.21
+  - Desacelerar > Video y Cámara, comentarios y posibles soluciones (p5) 
+  - Repaso de cara al cierre
+  - Mucho código ¿Cómo podríamos simplificar la programación creativa? 
+  - Entrega final: Collage de imágenes (opcional: video, cámara)
 
 ## Entregas y actividades
 
