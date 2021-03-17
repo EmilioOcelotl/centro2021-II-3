@@ -48,17 +48,22 @@ Ejes del curso:
 - [x] Sesion 13 - 10.03.21
   - Cámara y video > [Código](https://gist.github.com/EmilioOcelotl/7934dead4a338433e780c65285347784) 
   - ¿Cómo hacer coincidir perspectivas? [Código](https://gist.github.com/EmilioOcelotl/ec288dc9f1e66aa7fffd718563a7630d)
-- [ ] Sesión 14 - 12.03.21
+- [x] Sesión 14 - 12.03.21
   - Desacelerar > [Video](https://gist.github.com/EmilioOcelotl/5a7d754edd4967a0e25df75e2a91a839) y [Cámara](https://gist.github.com/EmilioOcelotl/0a1a334b6a0bae464a64c5f3bb0e4c1b), comentarios y posibles soluciones (p5) 
   - Repaso de cara al cierre. Posibilidades y alcances de Processing
   - Mucho código ¿Cómo podríamos simplificar la programación creativa? 
   - Entrega final: Collage de imágenes (opcional: video, cámara)
-
+- [ ] Sesión 15 - 17.03.21
+  - Collage visual con Processing > [Código](https://gist.github.com/EmilioOcelotl/e7a7a0ada9a550e5c58ab30748b1a91f) 
+- [ ] Sesión 16 - 19.03.21
+  - Sesión Final 
+  
 ## Entregas y actividades
 
 - [x] 05.02.21 - Leer y discutir [Hello World!](http://avant.org/project/hello-world/)
 - [x] 17.02.21 - Entrega parcial en: [Brightspace](https://centro.brightspace.com/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=8741&ou=13065)
-- [x] 03.03.21 - Segunda entrega parcial en: [Brightspace](https://centro.brightspace.com/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=9170&ou=13065) 
+- [x] 03.03.21 - Segunda entrega parcial en: [Brightspace](https://centro.brightspace.com/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=9170&ou=13065)
+- [ ] 17-19.03.21- Entrega final en: [Brightspace](https://centro.brightspace.com/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=9503&ou=13065) 
 
 ## Recomendaciones
 
@@ -81,7 +86,7 @@ Ejes del curso:
 
 ## Evaluación
 
-- Carpeta de trabajos finales selección de al menos 5 trabajos realizados durante el semestre con sus respectivas variaciones 25%
+- Carpeta de trabajos finales selección de al menos 3 trabajos realizados durante el semestre con sus respectivas variaciones 25%
 - Lecturas | Pendientes 10%
 - Primer parcial | participación 5% y ejercicio a entregar 20%
 - Segundo parcial | participación 5% y ejercicio a entregar 20%
