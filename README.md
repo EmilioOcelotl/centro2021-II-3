@@ -54,16 +54,17 @@ Ejes del curso:
   - Mucho código ¿Cómo podríamos simplificar la programación creativa? 
   - Entrega final: Collage de imágenes (opcional: video, cámara)
 - [ ] Sesión 15 - 17.03.21
-  - Collage visual con Processing > [Código](https://gist.github.com/EmilioOcelotl/e7a7a0ada9a550e5c58ab30748b1a91f) 
+  - Collage visual con Processing > [Código](https://gist.github.com/EmilioOcelotl/e7a7a0ada9a550e5c58ab30748b1a91f)
+  - Entregas pendientes 
 - [ ] Sesión 16 - 19.03.21
   - Sesión Final 
   
 ## Entregas y actividades
 
 - [x] 05.02.21 - Leer y discutir [Hello World!](http://avant.org/project/hello-world/)
-- [x] 17.02.21 - Entrega parcial en: [Brightspace](https://centro.brightspace.com/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=8741&ou=13065)
-- [x] 03.03.21 - Segunda entrega parcial en: [Brightspace](https://centro.brightspace.com/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=9170&ou=13065)
-- [ ] 17-19.03.21- Entrega final en: [Brightspace](https://centro.brightspace.com/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=9503&ou=13065) 
+- [x] 17.02.21 - Entrega parcial en: [Brightspace](https://centro.brightspace.com/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=8741&ou=13065) > [Código](https://gist.github.com/EmilioOcelotl/504be66b8972415b2a44849169384b2a) para resolver la entrega. 
+- [x] 03.03.21 - Segunda entrega parcial en: [Brightspace](https://centro.brightspace.com/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=9170&ou=13065) > [Código](https://gist.github.com/EmilioOcelotl/308cc6c74f0758445e34f8562d4fc2d2) para resolver la entrega. 
+- [ ] 17-19.03.21- Entrega final en: [Brightspace](https://centro.brightspace.com/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=9503&ou=13065) >  [Código](https://gist.github.com/EmilioOcelotl/e7a7a0ada9a550e5c58ab30748b1a91f) para resolver la entrega 
 
 ## Recomendaciones
 
