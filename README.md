@@ -53,11 +53,12 @@ Ejes del curso:
   - Repaso de cara al cierre. Posibilidades y alcances de Processing
   - Mucho código ¿Cómo podríamos simplificar la programación creativa? 
   - Entrega final: Collage de imágenes (opcional: video, cámara)
-- [ ] Sesión 15 - 17.03.21
+- [x] Sesión 15 - 17.03.21
   - Collage visual con Processing > [Código](https://gist.github.com/EmilioOcelotl/e7a7a0ada9a550e5c58ab30748b1a91f)
   - Entregas pendientes 
 - [ ] Sesión 16 - 19.03.21
-  - Sesión Final 
+  - Clase Glitch > [Código](https://gist.github.com/EmilioOcelotl/a04a916d10b68118ec3e647cce78aaf6) 
+  
   
 ## Entregas y actividades
 
